@@ -1,0 +1,10 @@
+{
+    "monday": {"from": 480, "to": 1080},
+    "tuesday": {"from": 480, "to": 1080},
+    "wednesday": {"from": 480, "to": 1080},
+    "thursday": {"from": 480, "to": 1080},
+    "friday": {"from": 480, "to": 1080},
+    "saturday": {"from": 0, "to": 0},
+    "sunday": {"from": 0, "to": 0}
+  }
+  
